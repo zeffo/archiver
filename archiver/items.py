@@ -30,9 +30,10 @@ def date_converter(raw: str):
 
 @define
 class Question:
-    number: int
+    number: int = field(converter=int)
     type: Literal["STARRED", "UNSTARRED"]
     date: datetime = field(converter=date_converter)
     ministry: str
     member: str
     subject: str
+    url: str

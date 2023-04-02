@@ -339,14 +339,14 @@ scripts = ["click (>=6.0)", "twisted (>=16.4.0)"]
 
 [[package]]
 name = "itemadapter"
-version = "0.7.0"
+version = "0.8.0"
 description = "Common interface for data container classes"
 category = "main"
 optional = false
-python-versions = ">=3.6"
+python-versions = ">=3.7"
 files = [
-    {file = "itemadapter-0.7.0-py3-none-any.whl", hash = "sha256:0e0ab4ddf92c71af57c2386952a61756ae2ecf6c65f976ffaee9ba91ae87a91c"},
-    {file = "itemadapter-0.7.0.tar.gz", hash = "sha256:32c061ec9ab47d5343e8011b268730f48ff632a0192b95292d118b18dbd7687a"},
+    {file = "itemadapter-0.8.0-py3-none-any.whl", hash = "sha256:2ac1fbcc363b789a18639935ca322e50a65a0a7dfdd8d973c34e2c468e6c0f94"},
+    {file = "itemadapter-0.8.0.tar.gz", hash = "sha256:77758485fb0ac10730d4b131363e37d65cb8db2450bfec7a57c3f3271f4a48a9"},
 ]
 
 [[package]]

@@ -1,12 +1,14 @@
-from scrapy import Spider
-from scrapy.http import FormRequest, TextResponse, Request
+from scrapy.http import FormRequest, TextResponse
 from archiver.items import Question
+from archiver.spider import BaseSpider, SpiderProtocol
 
 
-class LokSabhaSpider(Spider):
+class LokSabhaSpider(SpiderProtocol, BaseSpider):
+
+    URL = "https://loksabha.nic.in/Questions/Qtextsearch.aspx"
+    
     name = "loksabha"
-    search_terms = ["mental health", "suicide"]
-
+    
     @staticmethod
     def form_data(search_term: str, page_no: int = 1):
         return {
@@ -77,6 +79,4 @@ class LokSabhaSpider(Spider):
 
         return callback
 
-    def start_requests(self):
-        req = Request("https://loksabha.nic.in/Questions/Qtextsearch.aspx")
-        yield req
+

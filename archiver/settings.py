@@ -12,6 +12,8 @@ BOT_NAME = "archiver"
 SPIDER_MODULES = ["archiver.spiders"]
 NEWSPIDER_MODULE = "archiver.spiders"
 
+SEARCH_TERMS = ["mental health", "suicide", "mental illness"]
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = "archiver (+http://www.yourdomain.com)"

@@ -1,6 +1,5 @@
 from scrapy import Spider
 from scrapy.http import FormRequest, TextResponse, Request
-
 from archiver.items import Question
 
 
@@ -45,7 +44,7 @@ class LokSabhaSpider(Spider):
                 if (
                     h == 1
                 ):  # This tag gives both the Question Type and PDF url, so we'll parse it seperately
-                    data["url"] = col.xpath("./a[5]/@href").get()
+                    data["url"] = col.xpath(".//a[text()='PDF/WORD']/@href").get()
                     raw_type = col.xpath("./a[2]/text()").get()
                     data["type"] = raw_type.strip() if raw_type else "UNKNOWN"
                     continue

@@ -5,6 +5,7 @@
 
 from pathlib import Path
 import requests
+import re
 
 from typing import Literal
 from attrs import define, field
@@ -42,8 +43,8 @@ class Question:
     url: str
 
     def save(self, path: Path):
-        path = path / f"{self.number}-{self.subject}.pdf"
+        sanitized = re.sub(r"[^\w_.)( -]", "", self.subject)
+        path = path / f"{self.number}-{sanitized}.pdf"
         if not path.exists():
             data = requests.get(self.url)
-            with path.open("wb") as f:
-                f.write(data.content)
+            path.write_bytes(data.content)

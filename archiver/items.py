@@ -3,6 +3,9 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/items.html
 
+from pathlib import Path
+import requests
+
 from typing import Literal
 from attrs import define, field
 from datetime import datetime
@@ -37,3 +40,9 @@ class Question:
     member: str
     subject: str
     url: str
+
+    def save(self, path: Path):
+        path = path / f"{self.number}-{self.subject}.pdf"
+        data = requests.get(self.url)
+        with path.open("wb") as f:
+            f.write(data.content)

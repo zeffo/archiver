@@ -3,7 +3,7 @@
 
 name: Scrape
 
-on: tv t
+on: 
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
@@ -35,3 +35,5 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
+
+

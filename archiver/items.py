@@ -43,6 +43,7 @@ class Question:
 
     def save(self, path: Path):
         path = path / f"{self.number}-{self.subject}.pdf"
-        data = requests.get(self.url)
-        with path.open("wb") as f:
-            f.write(data.content)
+        if not path.exists():
+            data = requests.get(self.url)
+            with path.open("wb") as f:
+                f.write(data.content)

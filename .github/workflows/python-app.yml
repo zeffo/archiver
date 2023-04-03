@@ -14,7 +14,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checks out this repo
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.COMMIT_SECRET }}
+
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:

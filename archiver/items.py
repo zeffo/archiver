@@ -46,5 +46,7 @@ class Question:
         sanitized = re.sub(r"[^\w_.)( -]", "", self.subject)
         path = path / f"{self.number}-{sanitized}.pdf"
         if not path.exists():
-            data = requests.get(self.url)
+            data = requests.get(
+                self.url, verify=False
+            )  # This is a quick and dirty fix! SSL Verification is important and this should ideally not be used in prod.
             path.write_bytes(data.content)

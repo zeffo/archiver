@@ -1,0 +1,1789 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="aru638_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Admin</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Admin</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>4</o:TotalTime>
+  <o:Created>2011-08-09T04:47:00Z</o:Created>
+  <o:LastSaved>2011-08-09T04:51:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>218</o:Words>
+  <o:Characters>1248</o:Characters>
+  <o:Lines>10</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1464</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData href="aru638_files/themedata.thmx">
+<link rel=colorSchemeMapping href="aru638_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-alt:"\FF2D\FF33 \660E\671D";
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-1610612033 1757936891 16 0 131231 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1107304683 0 0 159 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-1610612033 1757936891 16 0 131231 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=right style='text-align:right'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></i></b></p>
+
+<p class=MsoNormal align=right style='text-align:right'><b style='mso-bidi-font-weight:
+normal'><i style='mso-bidi-font-style:normal'><span style='font-size:11.0pt'>ANNEXURE<o:p></o:p></span></i></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-GB
+style='font-size:11.0pt;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-GB
+style='font-size:11.0pt;mso-ansi-language:EN-GB'>Table showing number of
+suicide by farmers due to agrarian reasons<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span class=GramE><b><span
+lang=EN-GB style='font-size:11.0pt;mso-ansi-language:EN-GB'>during</span></b></span><b><span
+lang=EN-GB style='font-size:11.0pt;mso-ansi-language:EN-GB'> last three years
+as reported by State Governments.<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span lang=EN-GB
+style='font-size:11.0pt;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=582
+ style='width:436.5pt;margin-left:45.9pt;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.4pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#E5E5E5;mso-shading:windowtext;
+  mso-pattern:gray-10 auto;padding:0in 5.4pt 0in 5.4pt;height:27.4pt'>
+  <p class=MsoNormal style='text-align:justify'><b><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB'><span
+  style='mso-spacerun:yes'> </span></span></b><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Sl.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>No.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#E5E5E5;mso-shading:windowtext;mso-pattern:
+  gray-10 auto;padding:0in 5.4pt 0in 5.4pt;height:27.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Name
+  of State<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#E5E5E5;mso-shading:windowtext;mso-pattern:
+  gray-10 auto;padding:0in 5.4pt 0in 5.4pt;height:27.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Period
+  (Date of report)<o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#E5E5E5;mso-shading:windowtext;mso-pattern:
+  gray-10 auto;padding:0in 5.4pt 0in 5.4pt;height:27.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>No.
+  of suicides by farmers due to agrarian reasons as reported by State
+  Government<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:9.4pt'>
+  <td width=48 rowspan=3 valign=top style='width:35.9pt;border-top:none;
+  border-left:solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:9.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>1.<o:p></o:p></span></p>
+  </td>
+  <td width=168 rowspan=3 valign=top style='width:126.1pt;border:none;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:9.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Andhra
+  Pradesh<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:none;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:9.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>2008<o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:9.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>469<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:10.5pt'>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:10.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>2009<o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:10.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>296<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:11.65pt'>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:none;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:11.65pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>2010
+  <o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:11.65pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>152
+  <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:8.95pt'>
+  <td width=48 rowspan=3 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.95pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>2.<o:p></o:p></span></p>
+  </td>
+  <td width=168 rowspan=3 valign=top style='width:126.1pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.95pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Karnataka<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:solid windowtext 1.0pt;
+  border-left:none;border-bottom:none;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:8.95pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>2007-08<o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:solid windowtext 1.0pt;
+  border-left:none;border-bottom:none;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:8.95pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>182<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:8.95pt'>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.95pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>2008-09<o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.95pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>156<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:8.5pt'>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>2009-10
+  <o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>138<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:13.45pt'>
+  <td width=48 rowspan=3 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>3.<o:p></o:p></span></p>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=168 rowspan=3 valign=top style='width:126.1pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:13.45pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Maharashtra<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:none;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.45pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>2008
+  <o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:13.45pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>627<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:13.5pt'>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:13.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>2009
+  <o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:13.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>503<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:12.75pt'>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>2010
+  <o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>234
+  <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:11.65pt'>
+  <td width=48 rowspan=3 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:11.65pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>4.<o:p></o:p></span></p>
+  </td>
+  <td width=168 rowspan=3 valign=top style='width:126.1pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.65pt'>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+  mso-bidi-font-weight:bold'>Kerala<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:none;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:11.65pt'>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+  mso-bidi-font-weight:bold'>2008<o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:11.65pt'>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+  mso-bidi-font-weight:bold'>22<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;height:12.25pt'>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+  mso-bidi-font-weight:bold'>2009 <o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+  mso-bidi-font-weight:bold'>03<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;height:9.4pt'>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:9.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+  mso-bidi-font-weight:bold'>2010 <o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:9.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+  mso-bidi-font-weight:bold'>Nil<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13;height:13.0pt'>
+  <td width=48 rowspan=3 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>5<o:p></o:p></span></p>
+  </td>
+  <td width=168 rowspan=3 valign=top style='width:126.1pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:13.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Punjab<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:none;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>2008<o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:13.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>12<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14;height:9.4pt'>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:9.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>2009
+  </span><span style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:9.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>15</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15;height:8.5pt'>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>2010
+  </span><span style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>04
+  </span><span style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16;height:13.0pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>6.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:13.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Tamil
+  Nadu<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:none;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:13.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>11.11.2010<o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:13.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17;height:8.5pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:8.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>7.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Gujarat<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>29.06.2011<o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18;height:9.4pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:9.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>8.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:9.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Assam<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:9.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>23.05.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:9.4pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19;height:7.5pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>9.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Arunachal
+  Pradesh<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>23.02.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20;height:6.6pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:6.6pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>10.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.6pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Bihar<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.6pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>06.06.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.6pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21;height:6.75pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>11.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span
+  lang=EN-GB style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:
+  bold'>Chhatisgarh</span></span><span lang=EN-GB style='font-size:11.0pt;
+  mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>06.01.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22;height:5.85pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:5.85pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>12.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.85pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Goa<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.85pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>29.07.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.85pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23;height:4.5pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>13.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Haryana<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>16.05.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:4.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24;height:6.0pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:6.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>14.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Himachal
+  Pradesh<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>01.08.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25;height:7.5pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>15.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>J
+  &amp; K<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>24.12.2010</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26;height:9.0pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:9.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>16.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:9.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Jharkhand<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:9.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>18.06.2010</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:9.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27;height:6.6pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:6.6pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>17.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.6pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Manipur<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.6pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>02.12.2010</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.6pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28;height:7.5pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>18.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Meghalaya<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>03.03.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29;height:5.25pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:5.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>19.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Madhya
+  Pradesh<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>18.01.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30;height:10.3pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:10.3pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>20.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:10.3pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Mizoram<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:none;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:10.3pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>07.10.2010</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:10.3pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31;height:8.25pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:8.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>21.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nagaland<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>24.06.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32;height:8.25pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:8.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>22.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Orissa<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>26.03.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33;height:3.75pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:3.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>23.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:3.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Rajasthan<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:3.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>23.11.2010</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:3.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34;height:7.5pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>24.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Sikkim<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>16.10.2010</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35;height:7.5pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>25.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Tripura<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>01.03.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36;height:6.75pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>26.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Uttar
+  Pradesh<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>24.01.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37;height:8.25pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:8.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>27.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span
+  lang=EN-GB style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:
+  bold'>Uttarakhand</span></span><span lang=EN-GB style='font-size:11.0pt;
+  mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>19.07.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:8.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38;height:7.5pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>28.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>West
+  Bengal<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>13.12.2010</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39;height:6.75pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>29.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Andaman
+  &amp; Nicobar <o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>01.08.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.75pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40;height:5.85pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:5.85pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>30.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.85pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Govt.
+  of NCT of Delhi<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.85pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>25.02
+  2011</span><span style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.85pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41;height:5.25pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:5.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>31.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Daman
+  &amp; Diu<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>02.05.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.25pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42;height:6.0pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:6.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>32.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Dadra
+  &amp; Nagar Haveli<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>05.05.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:6.0pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43;height:7.5pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>33.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Lakshadweep<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>17.03.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44;height:12.1pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:12.1pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>34.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:12.1pt'>
+  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span
+  lang=EN-GB style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:
+  bold'>Puducherry</span></span><span lang=EN-GB style='font-size:11.0pt;
+  mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=174 valign=top style='width:130.5pt;border:none;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+  height:12.1pt'>
+  <p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+  mso-bidi-font-weight:bold'>01.08.2011<o:p></o:p></span></p>
+  </td>
+  <td width=192 colspan=2 valign=top style='width:2.0in;border:none;border-right:
+  solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:
+  solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0in 5.4pt 0in 5.4pt;height:12.1pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45;mso-yfti-lastrow:yes;height:7.5pt'>
+  <td width=48 valign=top style='width:35.9pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>35.<o:p></o:p></span></p>
+  </td>
+  <td width=168 valign=top style='width:126.1pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Chandigarh<o:p></o:p></span></p>
+  </td>
+  <td width=174 colspan=2 valign=top style='width:130.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>12.07.2011</span><span
+  style='font-size:11.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+  </td>
+  <td width=192 valign=top style='width:143.7pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:7.5pt'>
+  <p class=MsoNormal style='text-align:justify'><span lang=EN-GB
+  style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Nil</span><span
+  style='font-size:11.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <![if !supportMisalignedColumns]>
+ <tr height=0>
+  <td width=48 style='border:none'></td>
+  <td width=168 style='border:none'></td>
+  <td width=174 style='border:none'></td>
+  <td width=0 style='border:none'></td>
+  <td width=192 style='border:none'></td>
+ </tr>
+ <![endif]>
+</table>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:11.0pt;mso-fareast-font-family:"MS Mincho"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:11.0pt;mso-fareast-font-family:"MS Mincho"'>**********</span><span
+style='font-size:11.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt'><span
+style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

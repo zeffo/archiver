@@ -4,13 +4,27 @@ from archiver.spider import BaseSpider
 
 
 class LokSabhaSpider(BaseSpider):
-
     URL = "https://loksabha.nic.in/Questions/Qtextsearch.aspx"
 
     name = "loksabha"
 
-    @staticmethod
-    def form_data(search_term: str, page_no: int = 1):
+    def form_data(self, search_term: str, page_no: int = 1):
+        """Returns the Form Data with the given search term and page number.
+
+        Parameters
+        ----------
+        search_term: :class:`str`
+            The term to search for.
+
+        page_no: :class:`int`
+            The page number to retrieve.
+            Defaults to `1`.
+
+        Returns
+        -------
+        :class:`dict[str, str]`
+            The form data as a dictionary.
+        """
         return {
             "ctl00$txtSearchGlobal": "",
             "ctl00$ContentPlaceHolder1$ddlfile": ".pdf",
@@ -51,28 +65,39 @@ class LokSabhaSpider(BaseSpider):
                     data["type"] = raw_type.strip() if raw_type else "UNKNOWN"
                     continue
 
-                # the rest are plaintext
                 data[header] = "".join(col.xpath("./a//text()").getall()).strip()
 
             try:
                 questions.append(Question(**data))
             except ValueError:
-                self.logger.error(f"Error adding question: {data}")
+                self.log_error(data)
         return questions
 
     def parse(self, response: TextResponse):
+        """Makes a POST Request for each term in search_terms, and calls `LokSabhaSpider.parse_pages`"""
         for term in self.search_terms:
             yield FormRequest.from_response(
                 response, formdata=self.form_data(term), callback=self.parse_pages(term)
             )
 
     def add_data(self, response: TextResponse):
+        """Parses a page and sends parsed items to the pipeline."""
         return self.get_data(response)
 
     def parse_pages(self, term: str):
+        """Calculates the pages of a particular search term and scrapes them.
+
+        Parameters
+        ----------
+
+        term: :class:`str`
+            The term to search for
+        """
+
         def callback(response: TextResponse):
             pages = self.get_total_pages(response) or 0
-            for i in range(1, pages + 1):
+            self.add_data(response)
+            for i in range(2, pages + 1):
                 yield FormRequest.from_response(
                     response, formdata=self.form_data(term, i), callback=self.add_data
                 )
@@ -80,5 +105,8 @@ class LokSabhaSpider(BaseSpider):
         return callback
 
     def start_requests(self):
+        """Makes the initial GET request to retrieve initial data and calculate total pages.
+        `LokSabhaSpider.parse` is called.
+        """
         req = Request(self.URL)
         yield req

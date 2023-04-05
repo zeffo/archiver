@@ -7,7 +7,6 @@ from attrs import fields
 
 
 class RajyaSabhaSpider(BaseSpider):
-
     BASE_URL = "http://rajyasabha.nic.in"
     URL = "https://rajyasabha.nic.in/Questions/IntegratedSearchFormResult"
 
@@ -18,8 +17,22 @@ class RajyaSabhaSpider(BaseSpider):
     # //*[@id="txtTitle"]
     # //*[@id="show"]
 
-    @staticmethod
-    def form_data(search_term: str, page_no: int = 1):
+    def form_data(self, search_term: str):
+        """Returns URL Encoded form data for the given search term.
+
+        Parameters
+        ----------
+
+        search_term: :class:`str`
+           The term to search for.
+
+        Returns
+        ----------
+
+        :class:`str`
+            The encoded URL string.
+
+        """
         raw = {
             "session": "",
             "sessionto": "",
@@ -62,4 +75,4 @@ class RajyaSabhaSpider(BaseSpider):
             try:
                 yield Question(**data)
             except ValueError:
-                self.logger.error(f"Error adding question: {data}")
+                self.log_error(data)

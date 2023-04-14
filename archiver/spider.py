@@ -1,9 +1,16 @@
-from scrapy import Spider
-from archiver.settings import SEARCH_TERMS
+from .models import LokSabhaQuestion, RajyaSabhaQuestion
+from typing import TypeVar, Generic
+from logging import getLogger
 
+T = TypeVar("T", LokSabhaQuestion, RajyaSabhaQuestion)
 
-class BaseSpider(Spider):
-    search_terms = SEARCH_TERMS
+logger = getLogger("archiver")
 
-    def log_error(self, data):
-        self.logger.error(f"ERROR PARSING QUESTION:\n{data}")
+class BaseSpider(Generic[T]):
+
+    def __init__(self):
+        self.items: list[T] = []
+
+    async def process_item(self, item: T):
+        logger.debug(f"Processing {item.number}: {item.subject}, {item.date.strftime('%d-%m-%Y')})")
+        self.items.append(item)

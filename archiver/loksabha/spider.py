@@ -42,16 +42,17 @@ class Spider(BaseSpider[LokSabhaQuestion]):
         
     async def run(self, search_string: str):
         start = time.perf_counter()
-        async with AsyncClient() as client:
-            tasks: list[asyncio.Task[Any]] = []
-            for lok_no in range(1, 18):
-                initial = await self.get_page(client, loksabha_no=lok_no, search_string=search_string, page_no=0)
-                await self.parse(initial)
-                pages = self.get_total_records(initial) // self.PAGE_SIZE
-                for i in range(1, pages):
-                    coro = self.parse_page(client, loksabha_no=lok_no, search_string=search_string, page_no=i)
-                    task = asyncio.create_task(coro)
-                    tasks.append(task)
-            await asyncio.gather(*tasks)
+        client = self.client
+        tasks: list[asyncio.Task[Any]] = []
+        for lok_no in range(1, 18):
+            initial = await self.get_page(client, loksabha_no=lok_no, search_string=search_string, page_no=0)
+            await self.parse(initial)
+            pages = self.get_total_records(initial) // self.PAGE_SIZE
+            for i in range(1, pages):
+                coro = self.parse_page(client, loksabha_no=lok_no, search_string=search_string, page_no=i)
+                task = asyncio.create_task(coro)
+                tasks.append(task)
+        await asyncio.gather(*tasks)
         logger.info(f"Processed {len(self.items)} in {time.perf_counter() - start}ms.")
+    
 

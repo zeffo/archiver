@@ -12,7 +12,7 @@ handler.setFormatter(formatter)
 logger.addHandler(handler)
 
 async def main():
-    spider = Spider()
-    await spider.run("mental health")
+    async with Spider() as spider:
+        await spider.run("mental health")
 
 asyncio.run(main())

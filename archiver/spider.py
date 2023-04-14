@@ -12,5 +12,8 @@ class BaseSpider(Generic[T]):
         self.items: list[T] = []
 
     async def process_item(self, item: T):
-        logger.debug(f"Processing {item.number}: {item.subject}, {item.date.strftime('%d-%m-%Y')})")
+        if isinstance(item, LokSabhaQuestion):
+            logger.debug(f"Processing Lok Sabha item {item.number}: {item.subject}\nDate: {item.date.strftime('%d-%m-%Y')} ({item.loksabhaNo}, session {item.sessionNo})\n")
+        else:
+            logger.debug(f"Processing item {item.number}: {item.subject}\nDate: {item.date.strftime('%d-%m-%Y')}")
         self.items.append(item)

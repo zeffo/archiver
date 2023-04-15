@@ -27,21 +27,22 @@ def date_converter(raw: str):
     """
     return datetime.strptime(raw, "%Y-%m-%d")
 
+
 def conv(data: Any):
     try:
         return int(data)
     except Exception:
         return data
-    
+
+
 class Alias:
-    def __get__(self, obj: object, objtype: type | None=None):
+    def __get__(self, obj: object, _objtype=None):
         return getattr(obj, self.name)
 
     def __init__(self, name: str):
         self.name = name
-        super().__init__()
 
-    
+
 @define
 class LokSabhaQuestion:
     title: str
@@ -71,7 +72,7 @@ class LokSabhaQuestion:
     number = Alias("questionNo")
     subject = Alias("title")
 
-    
+
 @define
 class RajyaSabhaQuestion:
     number: int = field(converter=int)

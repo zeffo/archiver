@@ -3,9 +3,10 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/items.html
 
-from attrs import define, field
 from datetime import datetime
-from typing import Any, TypeVar, Type
+from typing import Any, Type, TypeVar
+
+from attrs import define, field
 
 
 def int_or_str(data: Any):
@@ -14,7 +15,9 @@ def int_or_str(data: Any):
     except Exception:
         return data
 
+
 T = TypeVar("T")
+
 
 class Alias:
     def __get__(self, obj: T, _objtype: Type[T] | None = None):
@@ -22,6 +25,7 @@ class Alias:
 
     def __init__(self, name: str):
         self.name = name
+
 
 @define
 class LokSabhaQuestion:
@@ -59,9 +63,11 @@ class RajyaSabhaQuestion:
     qslno: int
     qtitle: str
     qtype: str
-    ans_date: datetime = field(converter=lambda r: datetime.strptime(r, "%d-%m-%Y"))
-    adate: datetime = field(converter=datetime.fromisoformat)   # Same as ans_date but sent as an ISO-8601 string.
-    shri: str # Yes, this is a real key. I promise.
+    ans_date: datetime = field(converter=lambda r: datetime.strptime(r, "%d.%m.%Y"))
+    adate: datetime = field(
+        converter=datetime.fromisoformat
+    )  # Same as ans_date but sent as an ISO-8601 string.
+    shri: str  # Yes, this is a real key. I promise.
     qno: float  # Yes, the question numbers are sent as floats.
     name: str
     min_name: str
@@ -79,5 +85,3 @@ class RajyaSabhaQuestion:
     number = Alias("qno")
     subject = Alias("qtitle")
     date = Alias("ans_date")
-    
-

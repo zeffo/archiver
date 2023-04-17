@@ -1,11 +1,13 @@
-from typing import Any
-from yarl import URL
-from httpx import AsyncClient
 import asyncio
-import time
 import logging
-from archiver.spider import BaseSpider
+import time
+from typing import Any
+
+from httpx import AsyncClient
+from yarl import URL
+
 from archiver.models import LokSabhaQuestion
+from archiver.spider import BaseSpider
 
 logger = logging.getLogger("archiver")
 

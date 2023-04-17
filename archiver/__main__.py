@@ -1,4 +1,6 @@
-from .loksabha.spider import Spider
+from archiver.loksabha.spider import LokSabhaSpider
+from archiver.rajyasabha.spider import RajyaSabhaSpider
+
 import asyncio
 import logging
 from logging.handlers import RotatingFileHandler
@@ -12,7 +14,11 @@ handler.setFormatter(formatter)
 logger.addHandler(handler)
 
 async def main():
-    async with Spider() as spider:
-        await spider.run("mental health")
+    async with RajyaSabhaSpider() as spider:
+        page = await spider.get_page(search_string="mental health")
+        if page:
+            print(len(page))
+            
+        
 
 asyncio.run(main())

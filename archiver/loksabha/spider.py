@@ -10,7 +10,7 @@ from archiver.models import LokSabhaQuestion
 logger = logging.getLogger("archiver")
 
 
-class Spider(BaseSpider[LokSabhaQuestion]):
+class LokSabhaSpider(BaseSpider[LokSabhaQuestion]):
     BASE_URL = "https://eparlib.nic.in/restv3/fetch/all?collectionId=3"
     PAGE_SIZE = 100
 
